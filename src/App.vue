@@ -2,6 +2,7 @@
   <v-app>
 
     <v-main>
+      hello synco
       <router-view />
     </v-main>
   </v-app>
